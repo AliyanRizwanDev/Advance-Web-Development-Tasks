@@ -1,0 +1,36 @@
+﻿@model WebApplication2.Models.Student
+@{
+    ViewBag.Title = "Edit";
+}
+<style>
+    .error{
+        color:red;
+    }
+</style>
+<h2>Edit</h2>
+
+<form method="post">
+    <label>Id</label>
+    <input type="text" name="Id" value="@Model.Id" />
+    <label>Name</label>
+    <input type="text" name="Name" value="@Model.Name" />
+    <input type="submit" name="Submit" />
+</form>
+<br /><br /><br />
+<h3>Data from Html Helper Function</h3>
+<form method="post">
+    @Html.LabelFor(m => m.Id)
+    @Html.TextBoxFor(m => m.Id) 
+    @Html.ValidationMessageFor(m => m.Id, "", new { @class = "error" })
+    <br />
+
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name) 
+    @Html.ValidationMessageFor(m => m.Name, "", new { @class = "error" })<br />
+    <input type="submit" name="Submit" />
+</form>
+
+
+@{
+    Html.RenderPartial("_Demo1");
+}

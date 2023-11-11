@@ -1,0 +1,40 @@
+﻿@model IList<WebApplication2.Models.Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var i in Model)
+    {
+        <tr>
+            <td>@i.Id</td>
+            <td>@i.Name</td>
+            <td><a href="~/home/edit/@i.Id"> Edit </a></td>
+        </tr>
+    }
+</table>
+
+<br />
+
+<form method="post">
+    <label>Id</label>
+    <input type="number" name="Id" /> <br />
+    <label>Name</label>
+    <input type="text" name="Name" /><br />
+    <input type="submit" name="Submit" />
+</form>
+
+
+@{
+    Html.RenderPartial("_Demo1");
+  }
+
+@{
+    Html.RenderAction("_Demo2", "home");
+}
