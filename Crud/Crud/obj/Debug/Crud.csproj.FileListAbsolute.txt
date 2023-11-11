@@ -1,0 +1,44 @@
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\Crud.dll.config
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\Crud.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\Crud.pdb
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\EntityFramework.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\EntityFramework.SqlServer.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Helpers.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Mvc.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Razor.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.Deployment.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.Razor.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\EntityFramework.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\EntityFramework.SqlServer.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Razor.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.Deployment.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Webpages.Razor.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Helpers.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\bin\System.Web.Mvc.xml
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\obj\Debug\Crud.dll
+c:\users\92333\documents\visual studio 2013\Projects\Crud\Crud\obj\Debug\Crud.pdb
+C:\Users\92333\Desktop\up\Crud\Crud\bin\Crud.dll.config
+C:\Users\92333\Desktop\up\Crud\Crud\bin\Crud.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\Crud.pdb
+C:\Users\92333\Desktop\up\Crud\Crud\bin\EntityFramework.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\EntityFramework.SqlServer.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Helpers.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Mvc.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Razor.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.Deployment.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.Razor.dll
+C:\Users\92333\Desktop\up\Crud\Crud\bin\EntityFramework.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\EntityFramework.SqlServer.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Razor.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.Deployment.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Webpages.Razor.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Helpers.xml
+C:\Users\92333\Desktop\up\Crud\Crud\bin\System.Web.Mvc.xml
+C:\Users\92333\Desktop\up\Crud\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+C:\Users\92333\Desktop\up\Crud\Crud\obj\Debug\Crud.dll
+C:\Users\92333\Desktop\up\Crud\Crud\obj\Debug\Crud.pdb
